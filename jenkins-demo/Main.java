@@ -6,5 +6,9 @@ class Main{
 		System.out.println("heyy  Rohit");
 		System.out.println(new Date());
 		System.out.println("How r u ??");
+
+		Student s = new Student();
+		s.say();
+		
 	}
 }
